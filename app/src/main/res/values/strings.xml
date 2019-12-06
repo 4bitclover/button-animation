@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimatedButtons</string>
+    <string name="download">Download</string>
+    <string name="upload">upload</string>
+    <string name="send">Send</string>
+    <string name="fourbc">4BC</string>
+</resources>
